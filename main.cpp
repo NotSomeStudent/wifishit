@@ -9,15 +9,35 @@ extern "C" {
 // ==== EDIT ONLY THIS LIST ====
 // Put your SSIDs here (max 32 chars each). Add or remove lines freely.
 const char* ssidList[] = {
-  "SSID_1",
-  "SSID_2",
-  "SSID_3",
-  "SSID_4",
-  "SSID_5",
-  "SSID_6",
-  "SSID_7",
-  "SSID_8",
-  "SSID_9"
+"Nate Higgers",
+  "Furn Bags",
+  "Evo Fag-Knight",
+  "Jewish Hitler",
+  "Nitch Bigger",
+  "Gabe Itch",
+  "Hitlers My Goat",
+  "Beaner Beater",
+  "Dune Coon",
+  "Camel Jockey",
+  "Sand Nigger",
+  "Dirka Dirka",
+  "Asian Math Problem",
+  "Al Qaeda's Wifi",
+  "A Cracker's Slave",
+  "Fuck Curry Munchers",
+  "Lib Tard",
+  "I love Jiggaboos",
+  "Gold Sniffer",
+  "A Kike Stole a Bike",
+  "Niglets4Sale",
+  "Pajeet's Camel",
+  "CoinSlot Eye's Exam",
+  "Retarded Spook",
+  "Retarded Tardy",
+  "Jas the Gews",
+  "Go Away Faggots",
+  "Kick the Fags out",
+  "Dad Rape Fags"
 };
 const int ssidCount = sizeof(ssidList) / sizeof(ssidList[0]);
 
